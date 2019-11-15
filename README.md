@@ -1,6 +1,2 @@
-# hello-world 
-first commit // test
-
-second commit
-
-added LED_ascii.py
+# README 
+My first experience with github
