@@ -40,7 +40,7 @@ def LED_ascii(string, char='#'):
     s1 += '\n'
   return print(s1.replace('#', char))
 LED_ascii('evelina0')
-# update LED_ascii
+# update LED_ascii #2
 
 
 
