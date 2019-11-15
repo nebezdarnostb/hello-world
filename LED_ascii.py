@@ -40,8 +40,7 @@ def LED_ascii(string, char='#'):
     s1 += '\n'
   return print(s1.replace('#', char))
 LED_ascii('evelina0')
-# for i in range(5):
-#   print(ascii['A'][i])
+# update LED_ascii
 
 
 
